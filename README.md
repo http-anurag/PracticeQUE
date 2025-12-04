@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/http-anurag/PracticeQUE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/http-anurag/PracticeQUE/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/http-anurag/PracticeQUE/tree/master/0516-longest-palindromic-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/http-anurag/PracticeQUE/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
