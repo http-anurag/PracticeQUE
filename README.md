@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
 | [0860-design-circular-queue](https://github.com/http-anurag/PracticeQUE/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/http-anurag/PracticeQUE/tree/master/0860-lemonade-change) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/http-anurag/PracticeQUE/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
