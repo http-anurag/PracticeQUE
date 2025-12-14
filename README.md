@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
 | [0860-design-circular-queue](https://github.com/http-anurag/PracticeQUE/tree/master/0860-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/http-anurag/PracticeQUE/tree/master/0860-lemonade-change) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/http-anurag/PracticeQUE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/http-anurag/PracticeQUE/tree/master/0583-delete-operation-for-two-strings) |
 ## Two Pointers
@@ -45,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/http-anurag/PracticeQUE/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
