@@ -95,9 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/http-anurag/PracticeQUE/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/http-anurag/PracticeQUE/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
