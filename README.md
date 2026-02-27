@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/http-anurag/PracticeQUE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/http-anurag/PracticeQUE/tree/master/0583-delete-operation-for-two-strings) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/http-anurag/PracticeQUE/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
 | ------- |
