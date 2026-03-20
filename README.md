@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/http-anurag/PracticeQUE/tree/master/0021-merge-two-sorted-lists) |
 | [0860-design-circular-queue](https://github.com/http-anurag/PracticeQUE/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/http-anurag/PracticeQUE/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/http-anurag/PracticeQUE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
