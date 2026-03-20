@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/http-anurag/PracticeQUE/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/http-anurag/PracticeQUE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0860-design-circular-queue](https://github.com/http-anurag/PracticeQUE/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/http-anurag/PracticeQUE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/http-anurag/PracticeQUE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/http-anurag/PracticeQUE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/http-anurag/PracticeQUE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/http-anurag/PracticeQUE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/http-anurag/PracticeQUE/tree/master/0268-missing-number) |
