@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/http-anurag/PracticeQUE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/http-anurag/PracticeQUE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/http-anurag/PracticeQUE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/http-anurag/PracticeQUE/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/http-anurag/PracticeQUE/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/http-anurag/PracticeQUE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0338-counting-bits) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/http-anurag/PracticeQUE/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/http-anurag/PracticeQUE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
