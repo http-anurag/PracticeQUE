@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
 | [0860-design-circular-queue](https://github.com/http-anurag/PracticeQUE/tree/master/0860-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/http-anurag/PracticeQUE/tree/master/0860-lemonade-change) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/http-anurag/PracticeQUE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/http-anurag/PracticeQUE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/http-anurag/PracticeQUE/tree/master/0583-delete-operation-for-two-strings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/http-anurag/PracticeQUE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/http-anurag/PracticeQUE/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/http-anurag/PracticeQUE/tree/master/0455-assign-cookies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/http-anurag/PracticeQUE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
 |  |
 | ------- |
