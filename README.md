@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/http-anurag/PracticeQUE/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/http-anurag/PracticeQUE/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/http-anurag/PracticeQUE/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/http-anurag/PracticeQUE/tree/master/0516-longest-palindromic-subsequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/http-anurag/PracticeQUE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/http-anurag/PracticeQUE/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/http-anurag/PracticeQUE/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/http-anurag/PracticeQUE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
